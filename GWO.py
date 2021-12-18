@@ -123,6 +123,3 @@ print("fitness of best solution = %.6f" % err)
  
 print("\nEnd GWO for rastrigin\n")
  
- 
-print()
-print()
